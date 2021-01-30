@@ -1,6 +1,6 @@
 # Split Landing Page
 
-This is a split landing page. When you hover over one part of the site, it takes more 75% of the space, if you hover over the other part, the ratio turns around.
+This is a split landing page. When you hover over one part of the site, it takes 75% of the space, if you hover over the other part the ratio turns around.
 
 It is quite CSS heavy with a little bit of JavaScript for the hover effects.
 
